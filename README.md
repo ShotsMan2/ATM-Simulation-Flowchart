@@ -2,7 +2,7 @@
 
 This project is a comprehensive simulation of an Automated Teller Machine (ATM) system logic, designed and visualized using flowchart diagrams. It demonstrates the algorithmic thinking behind banking transactions, including secure authentication, balance management, and optimal banknote distribution.
 
-![ATM Flowchart Preview](BURAYA_RESIM_DOSYASININ_ADINI_YAZ.png)
+![ATM Flowchart Preview](Screenshot 2026-01-08 115720.png)
 ## 🚀 Features
 
 The simulation covers all core functionalities of a real-world ATM:
